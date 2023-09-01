@@ -666,6 +666,11 @@ section .logo {
     .contact {
         background-position-x: 50%;
     }
+
+    .header {
+        padding: 0 9%;
+    }
+
 }
 
 @media(max-width: 1366px) {
