@@ -326,6 +326,7 @@ section {
 
 .btn {
     border-radius: 1.5rem;
+    width: 100%;
 }
 
 .contact1 form .inputBox {
