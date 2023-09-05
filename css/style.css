@@ -413,7 +413,7 @@ section {
     margin: 0 auto;
     border-radius: 2rem;
     box-shadow: -3px 3px 5px rgba(0, 0, 0, 0.183);
-
+    height: 100%;
 
 
 
@@ -704,6 +704,7 @@ section .logo {
         width: 100%;
         font-size: 10px !important;
     }
+    
 }
 
 @media(max-width: 1366px) {
@@ -723,6 +724,7 @@ section .logo {
         align-items: center;
         justify-content: center;
         flex-direction: column;
+        height: 100% !important;
     }
 
 }
@@ -744,6 +746,7 @@ section .logo {
         align-items: center;
         justify-content: center;
         flex-direction: column;
+        height: 100% !important;
 
     }
 
@@ -753,6 +756,7 @@ section .logo {
             align-items: center;
             justify-content: center;
             flex-direction: column-reverse;
+            height: 100% !important;
         }
 
         .top {
